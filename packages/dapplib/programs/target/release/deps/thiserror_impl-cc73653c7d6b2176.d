@@ -1,0 +1,11 @@
+/Users/erick/Documents/Code/solona/packages/dapplib/programs/target/release/deps/libthiserror_impl-cc73653c7d6b2176.dylib: /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/lib.rs /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/ast.rs /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/attr.rs /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/expand.rs /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/fmt.rs /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/prop.rs /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/valid.rs
+
+/Users/erick/Documents/Code/solona/packages/dapplib/programs/target/release/deps/thiserror_impl-cc73653c7d6b2176.d: /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/lib.rs /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/ast.rs /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/attr.rs /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/expand.rs /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/fmt.rs /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/prop.rs /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/valid.rs
+
+/Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/lib.rs:
+/Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/ast.rs:
+/Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/attr.rs:
+/Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/expand.rs:
+/Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/fmt.rs:
+/Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/prop.rs:
+/Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/valid.rs:

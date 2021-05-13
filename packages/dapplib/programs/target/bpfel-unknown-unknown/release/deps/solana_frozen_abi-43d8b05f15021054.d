@@ -1,0 +1,10 @@
+/Users/erick/Documents/Code/solona/packages/dapplib/programs/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-43d8b05f15021054.rmeta: /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.6.4/src/lib.rs /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.6.4/src/abi_digester.rs /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.6.4/src/abi_example.rs /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.6.4/src/hash.rs
+
+/Users/erick/Documents/Code/solona/packages/dapplib/programs/target/bpfel-unknown-unknown/release/deps/libsolana_frozen_abi-43d8b05f15021054.rlib: /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.6.4/src/lib.rs /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.6.4/src/abi_digester.rs /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.6.4/src/abi_example.rs /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.6.4/src/hash.rs
+
+/Users/erick/Documents/Code/solona/packages/dapplib/programs/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-43d8b05f15021054.d: /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.6.4/src/lib.rs /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.6.4/src/abi_digester.rs /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.6.4/src/abi_example.rs /Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.6.4/src/hash.rs
+
+/Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.6.4/src/lib.rs:
+/Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.6.4/src/abi_digester.rs:
+/Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.6.4/src/abi_example.rs:
+/Users/erick/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.6.4/src/hash.rs:
